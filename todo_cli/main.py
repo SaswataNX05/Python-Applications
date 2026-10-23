@@ -1,6 +1,9 @@
 import json
+import os
 
-filename = "todo.json"
+# Data file path (located within the project directory)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+filename = os.path.join(BASE_DIR, "todo.json")
 
 def load_tasks():
     try:
