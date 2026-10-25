@@ -22,9 +22,13 @@ A collection of standalone Python projects ranging from CLI utilities to desktop
 │   ├── main.py                     # Modern CustomTkinter GUI game
 │   └── README.md
 │
-└── word_frequency_analyzer/
-    ├── main.py                     # Text processing & word counter
-    ├── sample.txt                  # Sample test text
+├── word_frequency_analyzer/
+|   ├── main.py                     # Text processing & word counter
+|   ├── sample.txt                  # Sample test text
+|   └── README.md
+|
+└── file_organiser/
+    ├── main.py                     # File Organiser Tool
     └── README.md
 ```
 
