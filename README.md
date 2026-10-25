@@ -44,6 +44,7 @@ A collection of standalone Python projects ranging from CLI utilities to desktop
 | [**Weather CLI**](weather_cli/) | CLI Tool | `requests` | `python weather_cli/main.py` |
 | [**Number Guessing Game**](number_guessing_game/) | Desktop GUI | `customtkinter` | `python number_guessing_game/main.py` |
 | [**Word Frequency Analyzer**](word_frequency_analyzer/) | CLI Tool | Standard Library | `python word_frequency_analyzer/main.py` |
+| [**File Organiser**](file_organiser/) | CLI Tool | Standard Library | `python file_organier/main.py` |
 
 ---
 
@@ -67,11 +68,3 @@ A collection of standalone Python projects ranging from CLI utilities to desktop
    ```
 
 ---
-
-## ➕ Adding New Projects
-
-To add a new project to this repository:
-1. Create a dedicated folder: `mkdir my_new_project`
-2. Place your entry script inside: `my_new_project/main.py`
-3. Add a brief `README.md` inside the project folder.
-4. If your project uses new third-party libraries, add them to `requirements.txt`.
