@@ -30,6 +30,7 @@ A collection of standalone Python projects ranging from CLI utilities to desktop
 └── file_organiser/
     ├── main.py                     # File Organiser Tool
     └── README.md
+
 ```
 
 ---
